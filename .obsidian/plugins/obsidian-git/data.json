@@ -1,6 +1,6 @@
 {
-  "commitMessage": "docs: updated {{files}}",
-  "autoCommitMessage": "docs: updated {{files}}",
+  "commitMessage": "docs: {{files}}",
+  "autoCommitMessage": "docs: {{files}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
